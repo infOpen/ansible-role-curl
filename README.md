@@ -1,6 +1,10 @@
 # curl
 
-[![Build Status](https://travis-ci.org/infOpen/ansible-role-curl.svg?branch=master)](https://travis-ci.org/infOpen/ansible-role-curl)
+[![Build Status](https://img.shields.io/travis/infOpen/ansible-role-curl/master.svg?label=travis_master)](https://travis-ci.org/infOpen/ansible-role-curl)
+[![Build Status](https://img.shields.io/travis/infOpen/ansible-role-curl/develop.svg?label=travis_develop)](https://travis-ci.org/infOpen/ansible-role-curl)
+[![Updates](https://pyup.io/repos/github/infOpen/ansible-role-curl/shield.svg)](https://pyup.io/repos/github/infOpen/ansible-role-curl/)
+[![Python 3](https://pyup.io/repos/github/infOpen/ansible-role-curl/python-3-shield.svg)](https://pyup.io/repos/github/infOpen/ansible-role-curl/)
+[![Ansible Role](https://img.shields.io/ansible/role/25442.svg)](https://galaxy.ansible.com/infOpen/curl/)
 
 Install curl package.
 
