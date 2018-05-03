@@ -44,6 +44,17 @@ $ tox
 ### Default role variables
 
 ``` yaml
+# Installation
+curl_packages: "{{ _curl_packages }}"
+curl_repository_cache_valid_time: 3600
+curl_repository_update_cache: True
+```
+
+### Debian OS family specific vars
+
+``` yaml
+_curl_packages:
+  - name: 'curl'
 ```
 
 ## Dependencies
